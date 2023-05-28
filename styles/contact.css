@@ -1,0 +1,101 @@
+body{ background: black;
+ }
+
+img{
+	border: 3px solid red;
+	border-radius: 40px;
+	height: 400px;
+	width: 400px;
+	align-items: center ;  
+	justify-content: center ;
+	box-shadow: 15px 15px 10px blue; 
+ }
+ img:hover{ color }
+ li{background-color: #00bdfe;
+  	font-size: 20px;
+  	padding: 40px;		
+  	margin: 30px;
+  	text-align: center;  
+  	text-decoration: none;
+  	border: 4px solid goldenrod;
+  	box-shadow: 10px 10px 6px greenyellow;
+}
+
+button{box-shadow: 3px 3px 2px 0px #2271b1,20px 20px 24px 4px ;}
+
+h3{border: 3px solid goldenrod;
+color: snow;
+background-color: #00bdfe;
+text-align: center;
+box-shadow: 6px 7px 7px 0px greenyellow, 10px -8px  9px darkred;
+} 
+a{color: white;
+font-family: 'ubuntu'}
+li:hover{background-color:light;
+box-shadow:0px 0px 0px red, 0px -10px 6px red,-10px -10px 6px red;
+}
+
+footer{border: 4px solid gold;
+background-image:../img/photo_2023-05-19_12-19-31.jpg;
+}
+div{background-color:brown;
+  	font-size: 20px;
+  	padding: 40px;		
+  	margin: 30px;
+  	text-align: center;  
+  	text-decoration: none;
+  	border: 4px solid goldenrod;
+  	box-shadow: 10px 10px 6px black;
+  	color:white;
+  	 }
+
+  	 h4{ f
+  	 	ont-size: 25px;
+
+  	 }
+  	 footer:hover{
+  	 	color: blue;
+  	 	font-style: bold ;
+
+  	 }
+  	  .nusin{box-shadow: 15px 7px 8px snow  ;}
+  	  .nusin:hover{box-shadow:0px 0px 0px black,0px -10px 8px blue, -20px -10px 8px blue;   }
+h2{
+   color:snow;
+   border: 4px solid goldenrod;
+   background-color:brown;
+   width: 100px;
+   padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
